@@ -12,23 +12,23 @@ Our goal is to answer the following questions through data collection and analys
 4. Is it more profitable for production companies to make their films pass the Bechdel Test?
 
 ### Files in this Respository:
-module1mediaproject-API.ipynb - Jupyter notebook demonstrating API calls from BechdelTest.com along with associated visualizations and dataframes
-student.ipynb.ipynb - Jupyter notebook demonstrating webscraping from BoxOfficeMojo along with associated visualizations and dataframes
+- module1mediaproject-API.ipynb - Jupyter notebook demonstrating API calls from BechdelTest.com along with associated visualizations and dataframes
+- student.ipynb.ipynb - Jupyter notebook demonstrating webscraping from BoxOfficeMojo along with associated visualizations and dataframes
 
 ### Data Collection
-BeauitfulSoup
-Request
-Json
-Pandas
+- BeauitfulSoup
+- Request
+- Json
+- Pandas
 
 ### Data Cleaning & Visualization
-Pandas
-Numpy
-Matplotlib
+- Pandas
+- Numpy
+- Matplotlib
 
 ### Sources:
-BechdelTest.com
-Box Office Mojo (by IMDB)
+- BechdelTest.com
+- Box Office Mojo (by IMDB)
 
 ## Recommendation
 Based on our analysis, we recommend that production companies focus on making more films that pass the Bechtel Test!
