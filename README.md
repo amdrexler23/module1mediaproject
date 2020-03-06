@@ -13,7 +13,7 @@ Our goal is to answer the following questions through data collection and analys
 
 ### Files in this Respository:
 - module1mediaproject-API.ipynb - Jupyter notebook demonstrating API calls from BechdelTest.com along with associated visualizations and dataframes
-- student.ipynb.ipynb - Jupyter notebook demonstrating webscraping from BoxOfficeMojo along with associated visualizations and dataframes
+- student.ipynb - Jupyter notebook demonstrating webscraping from BoxOfficeMojo along with associated visualizations and dataframes
 
 ### Data Collection
 - BeauitfulSoup
