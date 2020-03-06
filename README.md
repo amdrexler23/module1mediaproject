@@ -30,5 +30,8 @@ Our goal is to answer the following questions through data collection and analys
 - BechdelTest.com
 - Box Office Mojo (by IMDB)
 
+## Project Slides:
+https://docs.google.com/presentation/d/1FtJcserNRtJi6mGXY94mmKVvgYAfkHEcq2AavLB--co/edit?usp=sharing
+
 ## Recommendation
 Based on our analysis, we recommend that production companies focus on making more films that pass the Bechtel Test!
